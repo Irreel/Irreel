@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm **Anthea**, a **generalist**, **designer**, and **developer**
+
+- 🔭 I’m currently working on an exciting startup product
+- 🌱 I’m currently learning Product Management, Agentic AI, DataOps, Freestyle Hiphop
+- 😄 [Learn more about me](antheaz.vercel.app)
