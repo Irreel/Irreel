@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 I'm **Anthea**, a **generalist**, **designer**, and **developer**
 
+- 💬 I have a diverse background from machine learning, data analysis to user experience research and design
 - 🔭 I’m currently working on an exciting startup product
 - 🌱 I’m currently learning Product Management, Agentic AI, DataOps, Freestyle Hiphop
 - 😄 [Learn more about me](antheaz.vercel.app)
